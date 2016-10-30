@@ -4,6 +4,6 @@ For the late starters.
 
 - [ ] Thanks! ;)
 - [x] ~~First~~
-- [ ] Second
+- [x] ~~Second~~
 - [ ] Third
 - [ ] Fourth
