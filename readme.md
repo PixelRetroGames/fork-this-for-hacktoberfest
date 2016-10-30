@@ -3,7 +3,7 @@
 For the late starters.
 
 - [ ] Thanks! ;)
-~~- [ ] First~~
+- [ ] ~~First~~
 - [ ] Second
 - [ ] Third
 - [ ] Fourth
