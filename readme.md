@@ -5,5 +5,5 @@ For the late starters.
 - [ ] Thanks! ;)
 - [x] ~~First~~
 - [x] ~~Second~~
-- [ ] Third
+- [X] ~~Third~~
 - [ ] Fourth
